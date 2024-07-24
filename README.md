@@ -1,6 +1,5 @@
-# Bikcraft
 
-# Sobre o projeto
+# Bikcraft - Sobre o projeto
 Este projeto é um site institucional desenvolvido como parte da disciplina de Programação Web do curso de Ciência da Computação da UFOPA. O objetivo é apresentar minhas habilidades, experiências e projetos desenvolvidos ao longo do curso.
 
 # Tecnologias Utilizadas
@@ -12,5 +11,5 @@ Este projeto é um site institucional desenvolvido como parte da disciplina de P
 
 Salomão Marcioliver
 
-Link da página em produção: [Clique aqui]()
+Link da página em produção: [Clique aqui](https://bikcraft1.netlify.app/)
 
